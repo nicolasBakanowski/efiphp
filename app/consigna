@@ -1,0 +1,16 @@
+Trabajo Integrador - Blog Tecnologico
+
+Frontend:
+ - Listado de post ordenados por fecha desde mas recientes a mas antiguos
+ - Listado de categorias 
+ - Vista ampliada de un post con comentarios
+ - Registro de Usuarios
+ - Envio de email de bienvenida.
+
+Backend
+- Login
+- ABM Categorias (Solo usuarios admin)
+- ABM Usuarios (Solo usuarios admin)
+- ABM Comentarios
+- ABM Posts (Solo se puede editar y borrar sus propios post)
+- Aprovación de comentarios (solo usuarios admin)
